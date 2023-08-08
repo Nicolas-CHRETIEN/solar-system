@@ -15,10 +15,20 @@ I chose an API on the solar system to select datas on the different body our sys
 I used this on two ways:
 
   First I created a list of the different bodies classed by category with an individual button to show details for each element.
+
+  
   ![solar-system-list](https://github.com/Nicolas-CHRETIEN/solar-system/assets/132827127/8ce8ced0-40c6-4539-b6e9-9bb4501ffb0d)
 
+
+
+
   Second I used canvas to draw a full simulation of the solar system using part of the API datas to draw the elements.
+
+  
   ![solar-system-simulation](https://github.com/Nicolas-CHRETIEN/solar-system/assets/132827127/cd2b90b8-ea17-4381-bb9a-96345afaef5f)
+
+
+
 
 As the style was not very important for me in this exercise, I used bootstrap to go faster.
 
