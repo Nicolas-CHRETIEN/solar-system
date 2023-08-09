@@ -1,0 +1,82 @@
+.list {
+    text-align: start;
+    margin-left: 2%;
+}
+
+.showPlanets:hover {
+    cursor: pointer;
+    font-size: 300%;
+    color: rgb(255, 36, 36);
+}
+
+.showMoons:hover {
+    cursor: pointer;
+    font-size: 200%;
+    color: rgb(36, 87, 255);
+}
+
+.aside {
+    width: 30%;
+    border: solid;
+    border-color: rgb(73, 73, 73);
+    background-color: rgb(197, 246, 255);
+    margin-left: 2%;
+    margin-top: 4%;
+}
+
+.list {
+    border: solid;
+    border-color: rgb(73, 73, 73);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.body {
+    background-color: rgb(225, 251, 255);
+    margin-left: 0;
+    border-width: 2px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.moon {
+    background-color: rgb(245, 252, 253);
+    margin-left: 0;
+    display: flex;
+    flex-direction: row;
+    margin-top: 1%;
+    text-align: end;
+}
+
+.mainBodiesWindow {
+    display: flex;
+}
+
+.show-details-button {
+    background-color: rgb(185, 1, 1);
+    color: rgb(255, 255, 255);
+    font-size: x-large;
+}
+
+.show {
+    width: 60%;
+}
+
+.list-container {
+    width: 100%;
+}
+
+.title {
+    margin: auto;
+}
+
+.moon-title {
+    text-align: end;
+    margin-left: auto;
+    margin-right: 4%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
