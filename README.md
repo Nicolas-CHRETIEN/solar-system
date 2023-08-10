@@ -14,7 +14,8 @@ I used this on two ways:
   Second I used canvas to draw a full simulation of the solar system using part of the API data to draw the elements.
 
   
-![solar-system-simulation](https://github.com/Nicolas-CHRETIEN/solar-system/assets/132827127/8e59d21d-dcce-4ef7-babb-4f44d17b6745)
+![ezgif com-video-to-gif](https://github.com/Nicolas-CHRETIEN/solar-system/assets/132827127/5c96b77a-5dac-4ca7-9b54-d4d4701e49cc)
+
 
 
 
